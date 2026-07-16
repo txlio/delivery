@@ -54,7 +54,7 @@ src
 ### Clone o projeto
 
 ```bash
-git clone https://github.com/SEU-USUARIO/delivery-backend.git
+git clone https://github.com/txlio/delivery.git
 ```
 
 ### Configure o banco de dados
